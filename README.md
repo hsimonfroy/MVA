@@ -16,9 +16,9 @@ Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at EN
 | Source Separation for Astrophysics | Christophe KERVAZO, Jérôme BOBIN |
 | Probabilistic Graphical Models | Pierre LATOUCHE, Pierre-Alexandre MATTEI |
 | Bayesian Machine Learning | Rémi BARDENET, Julyan ARBEL |
-| Geometric Approach to Statistical Learning | Stanley DURRLEMAN |
-| Reinforcement Learning | Matteo PIROTTA |
-| Foundations of Deep Learning | Sébastien GERCHINOVITZ, François MALGOUYRES, Edouard PAUWELS, Nicolas THOME |
-| [Advanced Learning for Text and Graph Data](https://github.com/hsimonfroy/MVA/tree/main/ALTeGraD)  | Michalis VAZIRGIANNIS  |
+| Geometric Approach to Statistical Learning | S. Durrleman |
+| Reinforcement Learning | M. Pirotta |
+| Foundations of Deep Learning | S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome |
+| [Advanced Learning for Text and Graph Data](https://github.com/hsimonfroy/MVA/tree/main/ALTeGraD)  | M. Vazirgiannis |
 
 
