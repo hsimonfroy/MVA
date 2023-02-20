@@ -8,7 +8,7 @@ Contains labs and projects done during M.Sc. MVA (Maths, Imaging, Machine Learni
 | [Optimal Transport](https://github.com/hsimonfroy/MVA/tree/main/OptimalTransport) | G. Peyré |
 | [Geometry and Shape Spaces](https://github.com/hsimonfroy/MVA/tree/main/GeoForms) | A. Trouvé, J.A. Glaunès |
 | [Convex Optimization](https://github.com/hsimonfroy/MVA/tree/main/ConvexOptim) | A. d'Aspremont |
-| [Topological Data Analysis] | F. Chazal, J. Tierny |
+| [Topological Data Analysis](https://github.com/hsimonfroy/MVA/tree/main/TopologicalDataAnalysis) | F. Chazal, J. Tierny |
 | [Random Matrix Theory](https://github.com/hsimonfroy/MVA/tree/main/RandomMatrixTheory) | R. Couillet, J. Najim |
 | [Numerical Imaging](https://github.com/hsimonfroy/MVA/tree/main/NumericalImaging) | J. Delon, Y. Gousseau |
 | Numerical PDEs for Image Analysis | J-M. Mirebeau |
