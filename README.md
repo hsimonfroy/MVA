@@ -1,5 +1,5 @@
 # MVA
-Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at ENS Paris-Saclay. 
+Contains labs and projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at ENS Paris-Saclay. 
 
 | Course  | Instructor |
 | ------------- | ------------- |
@@ -14,7 +14,7 @@ Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at EN
 | Numerical PDEs for Image Analysis | J-M. Mirebeau |
 | Functional Brain Imaging | B. Thirion, T. Papadopoulo |
 | Source Separation for Astrophysics | C. Kervazo, J. Bobin |
-| Probabilistic Graphical Models | P. Latouche, P-A. Mattei |
+| [Probabilistic Graphical Models](https://github.com/hsimonfroy/MVA/tree/main/GraphicalModel) | P. Latouche, P-A. Mattei |
 | Bayesian Machine Learning | R. Bardenet, J. Arbel |
 | Geometric Approach to Statistical Learning | S. Durrleman |
 | Reinforcement Learning | M. Pirotta |
