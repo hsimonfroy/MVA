@@ -7,7 +7,7 @@ Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at EN
 | Neuroscientific Modeling | J-P. Nadal |
 | Optimal Transport | G. Peyré |
 | Geometry and Shape Spaces | A. Trouvé, J.A. Glaunès |
-| Convex Optimization | A. d'Aspremont |
+| [Convex Optimization](https://github.com/hsimonfroy/MVA/tree/main/ConvexOptim) | A. d'Aspremont |
 | Topological Data Analysis | F. Chazal, J. Tierny |
 | Random Matrix Theory | R. Couillet, J. Najim |
 | Numerical Imaging | J. Delon, Y. Gousseau |
