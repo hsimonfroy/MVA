@@ -3,19 +3,19 @@ Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at EN
 
 | Course  | Instructor |
 | ------------- | ------------- |
-| Maths for Neurosciences | Etienne TANRE, Romain VELTZ|
-| Neuroscientific Modeling | Jean-Pierre NADAL |
-| Optimal Transport | Gabriel PEYRE |
-| Geometry and Shape Spaces | Alain TROUVÉ, Joan Alexis GLAUNÈS |
-| Convex Optimization | Alexandre D'ASPREMONT |
-| Topological Data Analysis | Frédéric CHAZAL, Julien TIERNY |
-| Random Matrix Theory | Romain COUILLET, Jamal NAJIM |
-| Numerical Imaging | Julie DELON, Yann GOUSSEAU |
-| Numerical PDEs for Image Analysis | Jean-Marie MIREBEAU |
-| Functional Brain Imaging | Bertrand THIRION, Théo PAPADOPOULO |
-| Source Separation for Astrophysics | Christophe KERVAZO, Jérôme BOBIN |
-| Probabilistic Graphical Models | Pierre LATOUCHE, Pierre-Alexandre MATTEI |
-| Bayesian Machine Learning | Rémi BARDENET, Julyan ARBEL |
+| Maths for Neurosciences | E. Tanre, R. Veltz |
+| Neuroscientific Modeling | J-P. Nadal |
+| Optimal Transport | G. Peyré |
+| Geometry and Shape Spaces | A. Trouvé, J.A. Glaunès |
+| Convex Optimization | A. d'Aspremont |
+| Topological Data Analysis | F. Chazal, J. Tierny |
+| Random Matrix Theory | R. Couillet, J. Najim |
+| Numerical Imaging | J. Delon, Y. Gousseau |
+| Numerical PDEs for Image Analysis | J-M. Mirebeau |
+| Functional Brain Imaging | B. Thirion, T. Papadopoulo |
+| Source Separation for Astrophysics | C. Kervazo, J. Bobin |
+| Probabilistic Graphical Models | P. Latouche, P-A. Mattei |
+| Bayesian Machine Learning | R. Bardenet, J. Arbel |
 | Geometric Approach to Statistical Learning | S. Durrleman |
 | Reinforcement Learning | M. Pirotta |
 | Foundations of Deep Learning | S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome |
