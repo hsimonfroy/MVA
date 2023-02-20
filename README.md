@@ -12,7 +12,7 @@ Contains labs and projects done during M.Sc. MVA (Maths, Imaging, Machine Learni
 | [Random Matrix Theory](https://github.com/hsimonfroy/MVA/tree/main/RandomMatrixTheory) | R. Couillet, J. Najim |
 | [Numerical Imaging](https://github.com/hsimonfroy/MVA/tree/main/NumericalImaging) | J. Delon, Y. Gousseau |
 | Numerical PDEs for Image Analysis | J-M. Mirebeau |
-| Functional Brain Imaging | B. Thirion, T. Papadopoulo |
+| [Functional Brain Imaging](https://github.com/hsimonfroy/MVA/tree/main/FunctionalBrainImaging) | B. Thirion, T. Papadopoulo |
 | [Source Separation for Astrophysics](https://github.com/hsimonfroy/MVA/tree/main/SourceSeparation) | C. Kervazo, J. Bobin |
 | [Probabilistic Graphical Models](https://github.com/hsimonfroy/MVA/tree/main/GraphicalModel) | P. Latouche, P-A. Mattei |
 | [Bayesian Machine Learning](https://github.com/hsimonfroy/MVA/tree/main/BayesianMachineLearning) | R. Bardenet, J. Arbel |
