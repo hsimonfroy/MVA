@@ -3,8 +3,8 @@ Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at EN
 
 | Course  | Instructor |
 | ------------- | ------------- |
-| Maths for Neurosciences | E. TANRE, R. VELTZ|
-| Neuroscientific Modeling | J-P. NADAL |
+| Maths for Neurosciences | Etienne TANRE, Romain VELTZ|
+| Neuroscientific Modeling | Jean-Pierre NADAL |
 | Optimal Transport | Gabriel PEYRE |
 | Geometry and Shape Spaces | Alain TROUVÉ, Joan Alexis GLAUNÈS |
 | Convex Optimization | Alexandre D'ASPREMONT |
@@ -18,7 +18,7 @@ Contains projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at EN
 | Bayesian Machine Learning | Rémi BARDENET, Julyan ARBEL |
 | Geometric Approach to Statistical Learning | Stanley DURRLEMAN |
 | Reinforcement Learning | Matteo PIROTTA |
-| Foundations of Deep Learning | S. GERCHINOVITZ, F. MALGOUYRES, E. PAUWELS, N. THOME|
+| Foundations of Deep Learning | Sébastien GERCHINOVITZ, François MALGOUYRES, Edouard PAUWELS, Nicolas THOME |
 | [Advanced Learning for Text and Graph Data](https://github.com/hsimonfroy/MVA/tree/main/ALTeGraD)  | Michalis VAZIRGIANNIS  |
 
 
