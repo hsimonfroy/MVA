@@ -4,7 +4,7 @@ Contains labs and projects done during M.Sc. MVA (Maths, Imaging, Machine Learni
 | Course  | Instructor |
 | ------------- | ------------- |
 | Maths for Neurosciences | E. Tanre, R. Veltz |
-| [Neuroscientific Modeling](https://github.com/hsimonfroy/MVA/tree/main/NeuroModel) | J-P. Nadal |
+| [Computational Neuroscience](https://github.com/hsimonfroy/MVA/tree/main/ComputationalNeuroscience) | J-P. Nadal |
 | [Optimal Transport](https://github.com/hsimonfroy/MVA/tree/main/OptimalTransport) | G. Peyré |
 | [Geometry and Shape Spaces](https://github.com/hsimonfroy/MVA/tree/main/GeoForms) | A. Trouvé, J.A. Glaunès |
 | [Convex Optimization](https://github.com/hsimonfroy/MVA/tree/main/ConvexOptim) | A. d'Aspremont |
