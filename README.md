@@ -1,5 +1,5 @@
 # MVA
-Labs and projects done during M.Sc. MVA (Maths, Imaging, Machine Learning) at ENS Paris-Saclay. 
+Projects and labs done during M.Sc. MVA (Maths, Imaging, Machine Learning) at ENS Paris-Saclay. 
 
 | Course  | Instructor |
 | ------------- | ------------- |
